@@ -1,6 +1,6 @@
 function Message(){
     //jsx
-    const name='hi';
+    const name='hello';
     if(name)
         return <h1>Hello {name}</h1>;
     return <h1>False</h1>
